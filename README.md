@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+%26+AI+Systems+%F0%9F%9A%80;Satellite+%2B+Vision+%2B+LLMs+%3D+AgroGuard+%F0%9F%8C%BE;IET+DAVV+%7C+IIT+Madras+BS+Data+Science+%F0%9F%8E%93;2%C3%97+Hackathon+Runner-Up+%F0%9F%8F%86+%7C+AI+%26+ML+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+%26+AI+Systems+%F0%9F%9A%80;Satellite+%2B+Vision+%2B+LLMs+%3D+AgroGuard+%F0%9F%8C%BE;IET+DAVV+%7C+%F0%9F%8E%93;2%C3%97+Hackathon+Runner-Up+%F0%9F%8F%86+%7C+AI+%26+ML+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -46,7 +46,6 @@
 <td width="50%">
 
 🎓 **B.Tech IT** — IET DAVV, Indore `2023–2027`
-📊 **BS Data Science** — IIT Madras
 📍 Indore, Madhya Pradesh, India
 🏅 JEE Mains 2023 — **93.4 Percentile**
 💼 **Intern** @ Royal IT Services
@@ -154,13 +153,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**🌍 Scraping & Geospatial**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NDVI](https://img.shields.io/badge/Satellite%20NDVI-228B22?style=for-the-badge&logo=nasa&logoColor=white)
 
 </div>
 
@@ -181,19 +174,12 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush349&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
 ---
 
 ## 🎓 Education & Certifications
 
 **📘 B.Tech — Information Technology**
 IET DAVV, Indore | 2023–2027 | JEE Mains: **93.4 Percentile**
-
-**📗 BS — Data Science**
-Indian Institute of Technology, Madras | Ongoing
 
 **💼 Experience**
 Full Stack Developer Intern — **Royal IT Services**, Indore | Jul–Sep 2025
@@ -207,9 +193,8 @@ Full Stack Developer Intern — **Royal IT Services**, Indore | Jul–Sep 2025
 
 <div align="center">
 
-### 💬 Let's Build Something Extraordinary
 
-*"Satellite data + Edge AI + LLMs = Problems solved before they become disasters."*
+  *"Build things. Break things. Learn everything."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
